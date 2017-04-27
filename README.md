@@ -1,0 +1,2 @@
+# quotemaster
+show random quotes
